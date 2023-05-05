@@ -1,7 +1,7 @@
 default:
 	echo "'make lib' to create the shared lib libcheckNonAscii.so"
-	echo "'make byLib' to create call_dynamic, using shared lib"
-	echo "'make clean' to remove all .o, exec call, main and libFct.so"
+	echo "'make testExecutable' to create a test main exe file"
+	echo "'make clean' to remove all .o, main and libcheckNonAscii.so"
 
 lib: library.c
 	gcc -fPIC -c library.c
