@@ -1,0 +1,3 @@
+/Users/akhilesht/work/repo/detect-foreign-chars-lib/cmake-build-debug/CMakeFiles/detect_foreign_chars_lib.dir
+/Users/akhilesht/work/repo/detect-foreign-chars-lib/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akhilesht/work/repo/detect-foreign-chars-lib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
